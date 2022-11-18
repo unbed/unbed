@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@700&display=swap');
+
+    h1 {
+text-align: center;
+font-family: 'Rubik', sans-serif;
+}
+
+    body {
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("//retrowonder.github.io/unbed/blocked/assets/bg.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+margin-right: auto;
+margin-left: auto;
+margin-top: 12.5%;
+display: grid;
+place-items: center;
+}
+
+    .button {
+background-color: #000000;
+border: none;
+color: white;
+padding: 15px 70px;
+font-family: 'Rubik', sans-serif;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 2px 4px;
+cursor: pointer;
+}
+
+    .button5 {
+background-color: black;
+color: white;
+border: 5px solid #555555;
+}
+
+    .button5:hover {
+background-color: #FFFFFF;
+color: black;
+}
+
+    .brlarge {
+display: block;
+margin-bottom: 2em;
+}
