@@ -1,4 +1,4 @@
-![](https://demo.unbed.gq/blocked/assets/unbed_icon.png)
+![](https://assets.unbed.gq/blocked/assets/unbed_icon.png)
 <hr>
 <p>Websites constantly steal content by iFraming, Unbed stops it in it's tracks.</P
 <br>
