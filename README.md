@@ -8,4 +8,4 @@
 <br>
 <p>Setup instructions at</p><a href="https://www.unbed.gq/setup">https://www.unbed.gq/setup</a>
 <br>
-<p>Files in the Stable branch or Download Link at</p><a href="https://www.unbed.gq/">https://www.unbed.gq/</a> 
+<p>Files in the Stable branch or Download at</p><a href="https://www.unbed.gq/">https://www.unbed.gq/</a> 
