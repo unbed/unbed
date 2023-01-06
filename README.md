@@ -3,9 +3,26 @@
 <p>Websites constantly steal content by iFraming, Unbed stops it in it's tracks.</P
 <br>
 <hr>
-<h1>Setup</h1>
-<hr>
+<h1>Why Choose Unbed?</h1>
+<p>
+Compared to our competitors, like Unframed, Unbed was the first open-source iframe protection platform, which is fully customizeable to your likings, unlike Unframed, who limits you to not self hosted & no custom editing, Unbed is the choice you want with only 2 files needed for setup! 
+<h1>Features</h1>
 <br>
+<p>
+* Customizable
+<br>
+* Unintrusive
+<br>
+* Supports Same-Origin Embeds
+<br>
+* Fully Open-Source & Free
+<br>
+* Unintrusive with 1 line of code needed!
+<br>
+* Only 2 files!
+<br>
+<hr>
+<h1>Setup</h1>
 <p>Setup instructions at</p><a href="https://www.unbed.gq/setup">https://www.unbed.gq/setup</a>
 <br>
 <p>Files in the Stable branch or Download at</p><a href="https://www.unbed.gq/">https://www.unbed.gq/</a> 
